@@ -6,9 +6,9 @@ color:
   saturation: 0.5011141370050609
   rhythmicContrast: 0.10523824696429074
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
 name: pagesix
